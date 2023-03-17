@@ -1,0 +1,32 @@
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 160px;
+}
+
+.header_text {
+  margin-top: -10rem;
+  width: 40%;
+}
+
+.header_text h2 {
+  font-size: 48px;
+}
+
+.header_text p {
+  font-size: 21px;
+}
+
+.header_text button {
+  padding: 15px 40px;
+  font-size: 0.8rem;
+  border-radius: 55px;
+  border: none;
+  background: #458ff6;
+  color: white;
+}
+
+.image img {
+  height: 412px;
+}

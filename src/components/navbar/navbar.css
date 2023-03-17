@@ -20,7 +20,7 @@ nav {
 #navbar li a {
   text-decoration: none;
   font-weight: 600;
-  color: red;
+  color: #777777;
 }
 
 #navbar li a:hover {
