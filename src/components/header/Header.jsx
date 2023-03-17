@@ -1,5 +1,5 @@
 import React from "react";
-import IMG1 from "../../../assets/trafalgar-header illustration 1.png";
+import IMG1 from "../../assets/trafalgar-header illustration 1.png";
 import "./header.css";
 
 const Header = () => {
