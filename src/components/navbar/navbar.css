@@ -1,0 +1,28 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 160px;
+}
+
+#navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#navbar li {
+  list-style: none;
+  padding: 0 25px;
+  position: relative;
+}
+
+#navbar li a {
+  text-decoration: none;
+  font-weight: 600;
+  color: red;
+}
+
+#navbar li a:hover {
+  color: black;
+}
