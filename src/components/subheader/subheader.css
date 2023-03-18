@@ -1,0 +1,32 @@
+.main_subheader {
+  padding: 20px 160px;
+}
+
+.main-subheader_content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 3rem;
+}
+
+.main-subheader_content img {
+  height: 352px;
+}
+
+.subheader-text {
+  margin-top: -5rem;
+  width: 30%;
+}
+
+.subheader-text h3 {
+  font-size: 2rem;
+}
+
+.subheader-text .bar {
+  border: 1px solid black;
+  width: 3rem;
+}
+
+.subheader-text p {
+  font-size: 1rem;
+}
