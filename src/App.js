@@ -3,6 +3,7 @@ import Navbar from "./components/navbar/Navbar";
 import Services from "./components/services/Services";
 import Subheader from "./components/subheader/Subheader";
 import SubSubHeader from "./components/subsubheader/SubSubHeader";
+import Testimonial from "./components/testimonial/Testimonial";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Services />
       <Subheader />
       <SubSubHeader />
+      <Testimonial />
     </div>
   );
 }

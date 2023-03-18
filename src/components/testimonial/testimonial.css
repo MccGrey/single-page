@@ -1,0 +1,40 @@
+.testimonial .testimonial-container {
+  padding: 30px 50px;
+  background: red;
+  width: 850px;
+  height: 234px;
+  border-radius: 18px;
+}
+
+.testimonial-header {
+  text-align: center;
+}
+
+.testimonial-container .bar {
+  border: 1px solid black;
+  width: 7%;
+  margin: auto;
+}
+
+.testimonial-info {
+  display: flex;
+  gap: 1rem;
+}
+.testimonial-card {
+  display: flex;
+  margin-top: 2rem;
+}
+
+.testimonial-info .testimonial-name h6 {
+  margin-top: -0.8rem;
+}
+.testimonial-info .testimonial-image img {
+  height: 5rem;
+  border-radius: 50%;
+  border: 2px solid white;
+}
+
+.testimonial-content {
+  width: 20rem;
+  margin-left: 8rem;
+}
