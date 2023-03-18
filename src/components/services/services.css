@@ -25,3 +25,44 @@ section {
   margin: auto;
   margin-top: -1.5rem;
 }
+
+.main_service_card {
+  padding: 20px 160px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+
+.service_card {
+  padding: 30px 50px;
+  background: white;
+  width: 250px;
+  height: 254px;
+  border-radius: 10px;
+}
+
+.service_card .card_content {
+  margin: auto;
+  margin-top: 2rem;
+}
+
+.service_card .card_content .icon {
+  font-size: 4rem;
+  color: rgb(43, 90, 192);
+}
+
+.btn {
+  padding: 20px 160px;
+  text-align: center;
+  margin: 0 auto;
+}
+button {
+  padding: 15px 40px;
+  font-size: 0.8rem;
+  border-radius: 55px;
+  border: none;
+  background: white;
+  color: #458ff6;
+  border: 1px solid #458ff6;
+}

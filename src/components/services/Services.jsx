@@ -61,6 +61,88 @@ const Services = () => {
           </p>
         </div>
       </section>
+      <div className="main_service_card">
+        <article className="service_card">
+          <div className="card_content">
+            <div className="icon">
+              <BsBookshelf />
+            </div>
+            <h3>Search doctor</h3>
+            <p>
+              Choose your doctor from thousands of specialist, general, and
+              trusted hospitals
+            </p>
+          </div>
+        </article>
+
+        <article className="service_card">
+          <div className="card_content">
+            <div className="icon">
+              <BsBookshelf />
+            </div>
+            <h3>Search doctor</h3>
+            <p>
+              Choose your doctor from thousands of specialist, general, and
+              trusted hospitals
+            </p>
+          </div>
+        </article>
+
+        <article className="service_card">
+          <div className="card_content">
+            <div className="icon">
+              <BsBookshelf />
+            </div>
+            <h3>Search doctor</h3>
+            <p>
+              Choose your doctor from thousands of specialist, general, and
+              trusted hospitals
+            </p>
+          </div>
+        </article>
+
+        <article className="service_card">
+          <div className="card_content">
+            <div className="icon">
+              <BsBookshelf />
+            </div>
+            <h3>Search doctor</h3>
+            <p>
+              Choose your doctor from thousands of specialist, general, and
+              trusted hospitals
+            </p>
+          </div>
+        </article>
+
+        <article className="service_card">
+          <div className="card_content">
+            <div className="icon">
+              <BsBookshelf />
+            </div>
+            <h3>Search doctor</h3>
+            <p>
+              Choose your doctor from thousands of specialist, general, and
+              trusted hospitals
+            </p>
+          </div>
+        </article>
+
+        <article className="service_card">
+          <div className="card_content">
+            <div className="icon">
+              <BsBookshelf />
+            </div>
+            <h3>Search doctor</h3>
+            <p>
+              Choose your doctor from thousands of specialist, general, and
+              trusted hospitals
+            </p>
+          </div>
+        </article>
+      </div>
+      <div className="btn">
+        <button>Load More</button>
+      </div>
     </>
   );
 };
